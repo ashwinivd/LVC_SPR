@@ -1,0 +1,108 @@
+#
+# Results on Friday March 20 2020 13:17:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:74.0) Gecko/20100101 Firefox/74.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,1,0,intro,NULL,_REACTION_TIME_,8446
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,age,2
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,lgbackground,
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,hindi-native,yes
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,gender,female
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,english-first,english-first-yes
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,_REACTION_TIME_,28246
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,3,0,consent,NULL,consent,yes
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,Form,3,0,consent,NULL,_REACTION_TIME_,9491
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,5,0,practice,NULL,राम ने कमरे से सीता को भागते हुए देखी।
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,5,0,practice,NULL,NULL,1,NULL,7731
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,6,0,practice,NULL,आज सुबाह उसने मुझे कहा था कि वो आज स्कूल नहीं आयेगा।
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,6,0,practice,NULL,NULL,1,NULL,4911
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,10,0,q1,100,Which actress did the journalist interview after meeting her PA on a previous occasion?
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,10,0,q1,100,NULL,1,NULL,2400
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,15,0,q2,200,<b>Which struggling students</b> did the teacher encourage their friends to succeed without treating like idiots?
+1584710241,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,15,0,q2,200,NULL,1,NULL,1432
+#
+# Results on Friday March 20 2020 13:24:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:74.0) Gecko/20100101 Firefox/74.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,1,0,intro,NULL,_REACTION_TIME_,1177
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,age,2
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,lgbackground,
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,hindi-native,yes
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,gender,female
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,english-first,english-first-no
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,2,0,demographic,NULL,_REACTION_TIME_,9927
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,3,0,consent,NULL,consent,yes
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,Form,3,0,consent,NULL,_REACTION_TIME_,3294
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,5,0,practice,NULL,राम ने कमरे से सीता को भागते हुए देखी।
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,5,0,practice,NULL,NULL,2,NULL,1487
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,6,0,practice,NULL,आज सुबाह उसने मुझे कहा था कि वो आज स्कूल नहीं आयेगा।
+1584710670,167ad1e02a9d744dc5e98016e81c0c8e,AcceptabilityJudgment,6,0,practice,NULL,NULL,3,NULL,1083
